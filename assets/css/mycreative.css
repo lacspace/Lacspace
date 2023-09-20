@@ -1,0 +1,82 @@
+/* Custom CSS for Offer Section */
+#offer {
+  background-color: #f7f7f7;
+  padding: 80px 0;
+}
+
+#offer .section-header h2 {
+  color: #0ea2bd;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+#offer .section-header p {
+  color: #555;
+  font-size: 18px;
+}
+
+#offer .offer-img img {
+  max-width: 100%;
+}
+
+#offer h3 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#offer p.fst-italic {
+  font-style: italic;
+  color: #666;
+}
+
+#offer h4 {
+  color: #0ea2bd;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+#offer p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+#offer .d-flex.align-items-center {
+  margin-top: 20px;
+}
+
+#offer .bi-gift {
+  font-size: 24px;
+  color: #0ea2bd;
+  margin-right: 10px;
+}
+
+
+/* *** FAQS Styles *** */
+/* FAQ List Container */
+.faq-list {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f7f7f7;
+}
+
+/* FAQ Question */
+.faq-question {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #333; /* Changed text color for better readability */
+}
+
+/* FAQ Answer */
+.faq-answer {
+  font-size: 18px; /* Increased font size for better readability */
+  line-height: 1.6; /* Slightly increased line height for better spacing */
+  color: #555;
+}

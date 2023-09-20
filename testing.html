@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Blogger API Example</title>
+  </head>
+  <body>
+    <div id="content"></div>
+    <script>
+      function handleResponse(response) {
+        document.getElementById("content").innerHTML += "<h1>" + response.title + "</h1>" + response.content;
+      }
+    </script>
+    <script
+    src="https://www.googleapis.com/blogger/v3/blogs/3213900/posts/8398240586497962757?callback=handleResponse&key=AIzaSyDFYqM3GaIoRX3LP0WfyHpskK2NKctHirM"></script>
+  </body>
+</html>

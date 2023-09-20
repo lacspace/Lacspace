@@ -1,0 +1,85 @@
+.get-started-style {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.sheetStyle {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+
+.get-started-style
+.sheetStyle img {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.sheetStyle 
+.custom-form {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.sheetStyle
+.custom-form input,
+.custom-form textarea {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.sheetStyle
+.custom-form textarea {
+    border: none !;
+    outline: none !important;
+    height: 160px !important;
+}
+
+.sheetStyle
+.custom-form textarea {
+    resize: vertical;
+}
+
+.sheetStyle
+.custom-form button[type="submit"] {
+    background-color: #0ea2bd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.sheetStyle
+.custom-form button[type="submit"]:hover {
+    background-color: #0189a1;
+}
+
+.sheetStyle
+.custom-form .loading,
+.custom-form .error-message,
+.custom-form .sent-message {
+    display: none;
+    color: #dc3545;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+    .sheetStyle
+    .custom-form {
+        padding: 20px;
+    }
+}
