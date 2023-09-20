@@ -12,6 +12,7 @@ At Lacspace, we specialize in a wide range of services, including:
 - 🚀 **Digital Marketing**: Maximizing your online presence with top-notch strategies.
 - 🌐 **Tech Innovations**: Leveraging APIs and innovative tech solutions.
 - 💼 **Financial Tools**: Empowering your financial journey with calculators and strategies.
+- 🧪 **Lacspace Lab**: Where innovation thrives and technology meets artistry.
 
 ## Explore Our Work
 - 🔗 **Website**: [Visit Our Website](https://www.lacspace.com/)
