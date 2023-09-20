@@ -15,7 +15,7 @@ At Lacspace, we specialize in a wide range of services, including:
 
 ## Explore Our Work
 - 🔗 **Website**: [Visit Our Website](https://www.lacspace.com/)
-- 📱 **Facebook**: [Follow Us on Facebook](https://www.facebook.com/Lacspacetechnology)
+- 📱 **Facebook**: [Follow Us on Facebook](https://www.facebook.com/Lacspacetechnologies)
 - 📸 **Instagram**: [Connect on Instagram](https://www.instagram.com/the_lacspace/)
 - 🐦 **Twitter**: [Follow Us on Twitter](https://twitter.com/the_lacspace)
 - 🎥 **YouTube**: [Subscribe to Our YouTube Channel](https://www.youtube.com/@officiallacspace)
