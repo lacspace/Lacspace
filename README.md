@@ -20,7 +20,7 @@ At Lacspace, we specialize in a wide range of services, including:
 - 📸 **Instagram**: [Connect on Instagram](https://www.instagram.com/the_lacspace/)
 - 🐦 **Twitter**: [Follow Us on Twitter](https://twitter.com/the_lacspace)
 - 🎥 **YouTube**: [Subscribe to Our YouTube Channel](https://www.youtube.com/@officiallacspace)
-- 🌐 **LinkedIn**: [Subscribe to Our YouTube Channel](https://www.linkedin.com/company/Lacspace)
+- 🌐 **LinkedIn**: [Subscribe to Our LinkedIn Channel](https://www.linkedin.com/company/Lacspace)
 
 ## Join the Conversation
 Use the following hashtags to connect with the Lacspace community and stay updated:
