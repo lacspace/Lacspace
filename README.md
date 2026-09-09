@@ -83,11 +83,39 @@ A growing catalogue of products — a few of the flagships:
 
 ---
 
+## 💻 Open Source & Developer Platform
+
+Beyond our products, Lacspace ships one of the most complete **open-source developer ecosystems** around — free, keyless, and built to the same craft bar as everything we make. Explore it at **[developer.lacspace.com](https://developer.lacspace.com)**.
+
+<p>
+  <a href="https://developer.lacspace.com/packages"><img alt="packages" src="https://img.shields.io/badge/npm_packages-130%2B-4d9fff?style=flat-square&logo=npm&logoColor=white"/></a>
+  <img alt="zero dependency" src="https://img.shields.io/badge/dependencies-0-16a34a?style=flat-square"/>
+  <img alt="dual build" src="https://img.shields.io/badge/ESM%20%2B%20CJS-dual-7C3AED?style=flat-square"/>
+  <img alt="typed" src="https://img.shields.io/badge/types-included-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="keyless" src="https://img.shields.io/badge/keyless-no%20API%20keys-0BB9D9?style=flat-square"/>
+</p>
+
+- **📦 130+ npm packages & CLIs** — zero-dependency, isomorphic, dual ESM + CJS, fully typed. Payments, auth, SEO, AI, dates, testing, web-engagement and more, on [npm](https://www.npmjs.com/org/lacspace).
+- **🎨 No-AI Media Kit** — generate real logos and images *without AI* with [`@lacspace/logo`](https://www.npmjs.com/package/@lacspace/logo) and [`@lacspace/image`](https://www.npmjs.com/package/@lacspace/image), and use the official identity via [`@lacspace/brand`](https://www.npmjs.com/package/@lacspace/brand).
+- **⚡ create-lacspace-app** — a batteries-included Next.js scaffolder with 16 add-ons and 5 recipe bundles.
+- **🧪 Live tools & playgrounds** — scraper, leads, QR, and the [Logo &amp; Image Studio](https://developer.lacspace.com/tools/studio/try) + [Brand Center](https://developer.lacspace.com/tools/brand/try), all runnable in your browser.
+- **🆓 Free forever** — everything ships under the permissive **Lacspace Free Licence v1.0**.
+
+<div align="center">
+
+[![Explore the packages](https://img.shields.io/badge/Explore-130%2B%20packages-4d9fff?style=for-the-badge&logo=npm&logoColor=white)](https://developer.lacspace.com/packages)
+[![Developer handbook](https://img.shields.io/badge/Read-Developer%20Handbook-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white)](https://developer.lacspace.com/handbook)
+[![Open source on GitHub](https://img.shields.io/badge/Source-npm--packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacspace/npm-packages)
+
+</div>
+
+---
+
 ## 📊 By the numbers
 
 <div align="center">
 
-`🌍 100+ clients worldwide`  ·  `📦 26+ products shipped`  ·  `👥 30+ team`  ·  `🏢 offices across Asia`  ·  `📅 since 2021`
+`🌍 100+ clients worldwide`  ·  `📦 26+ products shipped`  ·  `🧩 130+ open-source packages`  ·  `👥 30+ team`  ·  `🏢 offices across Asia`  ·  `📅 since 2021`
 
 </div>
 
