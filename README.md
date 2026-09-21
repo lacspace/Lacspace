@@ -126,8 +126,11 @@ Beyond our products, Lacspace ships one of the most complete **open-source devel
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-lacspace.com-6C2BD9?style=flat-square&logo=googlechrome&logoColor=white)](https://lacspace.com)
-[![Instagram](https://img.shields.io/badge/Instagram-lacspace.asia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lacspace.asia)
-[![X](https://img.shields.io/badge/X-the__lacspace-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/the_lacspace)
+[![Instagram](https://img.shields.io/badge/Instagram-lacspace__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lacspace_)
+[![X](https://img.shields.io/badge/X-lacspace__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lacspace_)
+[![TikTok](https://img.shields.io/badge/TikTok-lacspace__-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lacspace_)
+[![Facebook](https://img.shields.io/badge/Facebook-lacspace.asia-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lacspace.asia)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2FLacspace-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lacspace/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lacspace-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/lacspace)
 [![YouTube](https://img.shields.io/badge/YouTube-@officiallacspace-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@officiallacspace)
 [![Email](https://img.shields.io/badge/Email-hello@lacspace.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@lacspace.com)
