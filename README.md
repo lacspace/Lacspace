@@ -95,7 +95,7 @@ Beyond our products, Lacspace ships one of the most complete **open-source devel
   <img alt="keyless" src="https://img.shields.io/badge/keyless-no%20API%20keys-0BB9D9?style=flat-square"/>
 </p>
 
-- **📦 150+ npm packages & CLIs** — zero-dependency, isomorphic, dual ESM + CJS, fully typed, published with npm provenance. Payments, auth, SEO, AI & RAG, global data (countries, currencies, IBAN, VAT, phone), dates, testing, web-engagement and more, on [npm](https://www.npmjs.com/org/lacspace).
+- **📦 150+ npm packages & CLIs** — zero-dependency, isomorphic, dual ESM + CJS, fully typed, published with npm provenance. Payments, auth, SEO, AI & RAG, global data (countries, currencies, IBAN, VAT, phone), dates, testing, web-engagement, newsroom (RSS/feed reader, fact-check, transliteration) and more, on [npm](https://www.npmjs.com/org/lacspace).
 - **🤖 [lacspace-mcp](https://developer.lacspace.com/tools/mcp)** — the Lacspace tools as an MCP server for Claude Code, Claude Desktop, Cursor and VS Code: scrape, crawl, extract, audit SEO, enrich domains, check uptime, validate emails, find leads. `npx lacspace-mcp`, no API keys.
 - **🎨 No-AI Media Kit** — generate real logos and images *without AI* with [`@lacspace/logo`](https://www.npmjs.com/package/@lacspace/logo) and [`@lacspace/image`](https://www.npmjs.com/package/@lacspace/image), and use the official identity via [`@lacspace/brand`](https://www.npmjs.com/package/@lacspace/brand).
 - **⚡ create-lacspace-app** — a batteries-included Next.js scaffolder with 16 add-ons and 5 recipe bundles.
